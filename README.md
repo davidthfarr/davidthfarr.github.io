@@ -2,8 +2,6 @@
 
 #### Technical Skills: Optimization, Machine Learning, Python, AWS, R
 
-<img src = "/assets/img/IMG_2909.jpg" width = "300" height = "400"/>
-
 ### Education
 - MSc Operations Research, University of Edinburgh '18
 - BS Systems Engineering, West Point '17

@@ -1,4 +1,4 @@
-# David T. Farr
+# Data Scientist
 
 #### Technical Skills: Optimization, Machine Learning, Python, AWS, R
 

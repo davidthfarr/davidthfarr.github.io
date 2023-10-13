@@ -1,6 +1,8 @@
 # David T. Farr
 
-(/assets/img/img_2909.jpg)
+#### Technical Skills: Optimization, Machine Learning, Python, AWS, R
+
+!(/assets/img/img_2909.jpg)
 
 ### Education
 - MSc Operations Research, University of Edinburgh '18

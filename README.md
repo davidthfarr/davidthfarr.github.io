@@ -11,6 +11,7 @@
 ### Projects
 - Multi Objective Optimization
 - Zwift Watt Optimization
+- Towards a Systems Thinking Model of Decision Dominance
 
 ## Talks and Lectures
 -Military Operations Research Symposium - Data Platform Smackdown, Spring 2023

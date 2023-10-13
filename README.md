@@ -2,7 +2,8 @@
 
 #### Technical Skills: Optimization, Machine Learning, Python, AWS, R
 
-![North Georgia Hiking](/assets/img/IMG_2909.jpg = 100x20)
+![North Georgia Hiking](/assets/img/IMG_2909.jpg)
+<img src = "/assets/img/IMG_2909.jpg" width = "200" height = "200"/>
 
 ### Education
 - MSc Operations Research, University of Edinburgh '18

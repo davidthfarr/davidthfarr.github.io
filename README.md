@@ -1,5 +1,6 @@
 # David T. Farr
 
+(/assets/img/img_2909.jpg)
 
 ### Education
 - MSc Operations Research, University of Edinburgh '18

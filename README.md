@@ -2,8 +2,8 @@
 
 
 ### Education
-MSc Operations Research, University of Edinburgh '18
-BS Systems Engineering, West Point '17
+- MSc Operations Research, University of Edinburgh '18
+- BS Systems Engineering, West Point '17
 
 ### Projects
 - Multi Objective Optimization

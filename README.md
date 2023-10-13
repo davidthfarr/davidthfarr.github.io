@@ -11,3 +11,12 @@
 ### Projects
 - Multi Objective Optimization
 - Zwift Watt Optimization
+
+## Talks and Lectures
+-Military Operations Research Symposium - Data Platform Smackdown, Spring 2023
+
+
+## Publications
+1. Pub 1
+2. Pub 2
+3. Pub 3

@@ -2,11 +2,11 @@
 
 #### Technical Skills: Optimization, Machine Learning, Python, AWS, R
 
-### Education
-- MSc Operations Research, University of Edinburgh '18
-- BS Systems Engineering, West Point '17
+## Education
+- MSc Operations Research with Data Science (Distinction), University of Edinburgh '18
+- BS Systems Engineering with Cyber Track (Honors), West Point '17
 
-### Projects
+## Projects
 - Multi Objective Optimization
 - Zwift Watt Optimization
 - Meta-analysis by Estimation of Total Relevant Information Content in Biological Data (METRIC)

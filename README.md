@@ -3,7 +3,7 @@
 ## Education
 - PhD Student Information Science University of Washington, Current
 - MSc Operations Research with Data Science (Distinction), University of Edinburgh '18
-- BS Systems Engineering with Cyber Track (Honors), West Point '17
+- BS Systems Engineering with Cyber Track (Honors), United States Military Academy '17
 
 ## Projects
 - Multi-Agent Systems for Frame Detection (Under Review)
